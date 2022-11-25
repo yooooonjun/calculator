@@ -1,6 +1,6 @@
 #include <arithmetic.h>
 
-int dur(int a, int b)
+int dur(int c, int b)
 {
-    return a/b;
+    return c/b;
 }
